@@ -17,7 +17,7 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 
 ### How to use it:
 - Go to the link [Download Postman](https://www.postman.com/downloads/). Download the app to get started with the Postman API Platform
-
+- Install Postman App in the system
 
 
 
