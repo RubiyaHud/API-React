@@ -4,6 +4,17 @@ In simple **Restaurant and waiter** example:
 
 The **API** is like a waiter that takes the request from customer to the kitchen and brings back the result, without needing to know how everything works inside.
 
+## Postman
+"Postman is a digital toolkit that helps developers explore, test, and share APIs—like a powerful remote control that lets you send requests to any API and instantly see how it responds, without needing to write a full program."
+### What Postman does in the context of APIs:
+![image](https://github.com/user-attachments/assets/e0c8d931-da0e-4143-848e-6247709a8bb7)
+
+![image](https://github.com/user-attachments/assets/21d9f69e-2595-4ace-a75a-a0d364196a2b)
+
+![image](https://github.com/user-attachments/assets/a7495002-6bb9-4b36-9eb4-7e93272a1d95)
+
+![image](https://github.com/user-attachments/assets/839b1e56-35a9-4aff-a1da-8fdc0b2822f1)
+
 
 
 
