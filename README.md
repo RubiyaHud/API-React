@@ -1,6 +1,15 @@
-# React + Vite
+# API (Application Programming Interface) 
+### **"An API is a set of rules that lets different apps or programs talk to each other and share information safely and easily."**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+
+
+
+
+
+
+
+
 
 Currently, two official plugins are available:
 
