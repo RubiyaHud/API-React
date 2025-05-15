@@ -15,6 +15,8 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 
 ![image](https://github.com/user-attachments/assets/839b1e56-35a9-4aff-a1da-8fdc0b2822f1)
 
+### How to use it:
+- Go to the link [Download Postman](https://www.postman.com/downloads/). Download the app to get started with the Postman API Platform
 
 
 
@@ -24,10 +26,6 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 
 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Expanding the ESLint configuration
 
