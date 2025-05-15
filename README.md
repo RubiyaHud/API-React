@@ -29,7 +29,18 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 - Now we can check "Does the API provide Valid data", "Does the Data work or Not" and, also we can search some specific Data.
 
 ## Thunder Client extension in VS Code
-"Thunder Client is a lightweight API testing tool built right into VS Code, letting developers send and test API requests without ever leaving their code editor—like having a mini Postman quietly sitting inside your workspace, ready to test APIs with speed and simplicity."
+"Thunder Client is a **lightweight API testing tool** built right into VS Code, letting developers send and test API requests without ever leaving their code editor—like having a mini Postman quietly sitting inside your workspace, ready to test APIs with speed and simplicity."
+
+### What Thunder Client Does in VS Code:
+- ![image](https://github.com/user-attachments/assets/d896cd1e-ce2d-455b-a82d-183c2a8c2965)
+- ![image](https://github.com/user-attachments/assets/9f31de2c-6b7f-47f9-8db5-1fc963cacda8)
+- ![image](https://github.com/user-attachments/assets/b64e38a6-36d4-45a1-8e7f-e4abe94e2562)
+- ![image](https://github.com/user-attachments/assets/336f666d-683f-4c2a-aabd-478e6431a899)
+- ![image](https://github.com/user-attachments/assets/d6229868-3cce-4e41-9646-45dba8dc2bd9)
+
+
+
+
 
 
 
