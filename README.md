@@ -1,6 +1,8 @@
 # API (Application Programming Interface) 
 ### **"An API is a set of rules that lets different apps or programs talk to each other and share information safely and easily."**
+In simple **Restaurant and waiter** example:
 
+The **API** is like a waiter that takes the request from customer to the kitchen and brings back the result, without needing to know how everything works inside.
 
 
 
