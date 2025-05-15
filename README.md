@@ -26,7 +26,10 @@ The **API** is like a waiter that takes the request from customer to the kitchen
     ![image](https://github.com/user-attachments/assets/90404e61-9c64-4a38-91c5-cc4835ea294d)
 - The successful **Get Request** will fetch the data properly
       ![image](https://github.com/user-attachments/assets/71ff6377-7377-44d9-8580-bbafa399efe0)
-- Now we can check "Does the API provide Valid data", "Does the Data work or Not" and, also find some specific Data.
+- Now we can check "Does the API provide Valid data", "Does the Data work or Not" and, also we can search some specific Data.
+
+## Thunder Client extension in VS Code
+"Thunder Client is a lightweight API testing tool built right into VS Code, letting developers send and test API requests without ever leaving their code editor—like having a mini Postman quietly sitting inside your workspace, ready to test APIs with speed and simplicity."
 
 
 
