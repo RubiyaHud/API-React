@@ -1,11 +1,11 @@
 # API (Application Programming Interface) 
-### **"An API is a set of rules that lets different apps or programs talk to each other and share information safely and easily."**
-In simple **Restaurant and waiter** example:
+### "An **API** is a **set of rules** that lets different apps or programs talk to each other and share information safely and easily."
+In simple Restaurant and Waiter example:
 
 The **API** is like a waiter that takes the request from customer to the kitchen and brings back the result, without needing to know how everything works inside.
 
 ## Postman
-"Postman is a digital toolkit that helps developers explore, test, and share APIs—like a powerful remote control that lets you send requests to any API and instantly see how it responds, without needing to write a full program."
+"Postman is a **digital toolkit** that helps developers explore, test, and share APIs—like a powerful remote control that lets you send requests to any API and instantly see how it responds, without needing to write a full program."
 ### What Postman does in the context of APIs:
 ![image](https://github.com/user-attachments/assets/e0c8d931-da0e-4143-848e-6247709a8bb7)
 
