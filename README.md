@@ -11,6 +11,11 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 ### What Does a Country API Do?
 ![image](https://github.com/user-attachments/assets/c99a48f6-f78a-43ac-9c18-daf8cca0aa08)
 
+### What Can We Do With It?
+- Get data for analytics or comparisons
+- Build dropdowns for selecting countries
+- Show country info in travel, education, or news apps
+- Display flags, names, and regions dynamically etc.
 
 ## Postman
 "Postman is a **digital toolkit** that helps developers **explore, test, and share APIs**—like a powerful remote control that lets you send requests to any API and instantly see how it responds, without needing to write a full program."
