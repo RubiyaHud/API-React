@@ -46,11 +46,14 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 
 ### How to use it:
 - Open VS Code, Click on extension, Search **Thunder Client** extension and Install it.
-![image](https://github.com/user-attachments/assets/28b89983-dca2-47e2-a487-8865381e0940)
+    ![image](https://github.com/user-attachments/assets/28b89983-dca2-47e2-a487-8865381e0940)
 
 - Open the Thunder Client extension, then click "New Request", Select a method such as **GET**. Copy-Paste [the Country API](https://restcountries.com/v3.1/all), inside the GET, then click "Send" button
+    ![image](https://github.com/user-attachments/assets/e7620f3e-ebf3-4fe4-919c-5b14b99d9a45)
+  
+-  The successful **Get Request** will fetch the data properly  
+    ![image](https://github.com/user-attachments/assets/de2c6d56-0e2e-497f-a2b4-161728548f52)
 
-![image](https://github.com/user-attachments/assets/e7620f3e-ebf3-4fe4-919c-5b14b99d9a45)
 
 
 
