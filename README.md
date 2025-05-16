@@ -23,6 +23,11 @@ The **API** is like a waiter that takes the request from customer to the kitchen
     - **Data Link:** https://restcountries.com/v3.1/all
     - **Description:** Provides comprehensive data on countries, including names, codes, capitals, currencies, languages, and flags. It's free and widely used in web and mobile applications.
 
+2. #### World Bank Country API
+    - **Website:** https://datahelpdesk.worldbank.org/knowledgebase/articles/898590-country-api-queries
+    - **Data Link:** https://api.worldbank.org/v2/country/all?format=json
+    - **Description:** Offers extensive economic, social, and demographic data for countries worldwide. Ideal for applications requiring statistical information.
+
 ## Postman
 "Postman is a **digital toolkit** that helps developers **explore, test, and share APIs**—like a powerful remote control that lets you send requests to any API and instantly see how it responds, without needing to write a full program."
 ### What Postman does in the context of APIs:
