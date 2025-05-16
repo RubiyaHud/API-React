@@ -18,10 +18,10 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 - Display flags, names, and regions dynamically etc.
 
 ### Popular Country APIs:
-- REST Countries API
-      - **Website:** https://restcountries.com/
-      - Data Link: [REST Countries All](https://restcountries.com/v3.1/all)
-      - **Description:** Provides comprehensive data on countries, including names, codes, capitals, currencies, languages, and flags. It's free and widely used in web and mobile applications.
+1. #### REST Countries API
+    - **Website:** https://restcountries.com/
+    - **Data Link:** https://restcountries.com/v3.1/all
+    - **Description:** Provides comprehensive data on countries, including names, codes, capitals, currencies, languages, and flags. It's free and widely used in web and mobile applications.
 
 ## Postman
 "Postman is a **digital toolkit** that helps developers **explore, test, and share APIs**—like a powerful remote control that lets you send requests to any API and instantly see how it responds, without needing to write a full program."
