@@ -45,6 +45,8 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 
 
 ### How to use it:
+![image](https://github.com/user-attachments/assets/28b89983-dca2-47e2-a487-8865381e0940)
+
 ![image](https://github.com/user-attachments/assets/fd4a2695-79cc-420d-8e56-17a4854ab690)
 
 
