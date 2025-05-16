@@ -4,6 +4,8 @@
 In simple Restaurant and Waiter example:
 
 The **API** is like a waiter that takes the request from customer to the kitchen and brings back the result, without needing to know how everything works inside.
+## Country API
+"A Country API is like a smart global directory that delivers detailed, real-time information about any country—such as its name, capital, currency, language, and more—when asked by a program or app."
 
 ## Postman
 "Postman is a **digital toolkit** that helps developers **explore, test, and share APIs**—like a powerful remote control that lets you send requests to any API and instantly see how it responds, without needing to write a full program."
