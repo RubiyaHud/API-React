@@ -8,6 +8,10 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 ## Country API
 "A Country API is like a smart global directory that delivers detailed, real-time information about any country—such as its name, capital, currency, language, and more—when asked by a program or app."
 
+### What Does a Country API Do?
+![image](https://github.com/user-attachments/assets/c99a48f6-f78a-43ac-9c18-daf8cca0aa08)
+
+
 ## Postman
 "Postman is a **digital toolkit** that helps developers **explore, test, and share APIs**—like a powerful remote control that lets you send requests to any API and instantly see how it responds, without needing to write a full program."
 ### What Postman does in the context of APIs:
