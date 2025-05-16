@@ -6,7 +6,7 @@ In simple Restaurant and Waiter example:
 The **API** is like a waiter that takes the request from customer to the kitchen and brings back the result, without needing to know how everything works inside.
 
 ## Country API
-"A Country API is like a smart global directory that delivers detailed, real-time information about any country—such as its name, capital, currency, language, and more—when asked by a program or app."
+"A Country API is like a smart **global directory** that delivers detailed, real-time information about any country—such as its name, capital, currency, language, and more—when asked by a program or app."
 
 ### What Does a Country API Do?
 ![image](https://github.com/user-attachments/assets/c99a48f6-f78a-43ac-9c18-daf8cca0aa08)
@@ -16,6 +16,12 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 - Build dropdowns for selecting countries
 - Show country info in travel, education, or news apps
 - Display flags, names, and regions dynamically etc.
+
+### Popular Country APIs:
+- REST Countries API
+      - **Website:** https://restcountries.com/
+      - Data Link: [REST Countries All](https://restcountries.com/v3.1/all)
+      - **Description:** Provides comprehensive data on countries, including names, codes, capitals, currencies, languages, and flags. It's free and widely used in web and mobile applications.
 
 ## Postman
 "Postman is a **digital toolkit** that helps developers **explore, test, and share APIs**—like a powerful remote control that lets you send requests to any API and instantly see how it responds, without needing to write a full program."
