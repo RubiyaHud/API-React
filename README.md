@@ -26,7 +26,10 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 2. #### World Bank Country API
     - **Website:** https://datahelpdesk.worldbank.org/knowledgebase/articles/898590-country-api-queries
     - **Data Link:** https://api.worldbank.org/v2/country/all?format=json
-    - **Description:** Offers extensive economic, social, and demographic data for countries worldwide. Ideal for applications requiring statistical information.
+    - **Description:** Offers extensive economic, social, and demographic data for countries worldwide. Ideal for applications requiring statistical information
+      
+## JSON Viewer Chrome Extension
+"A JSON Viewer Chrome extension is a browser add-on that automatically detects and beautifies raw JSON data viewed in the browser, transforming it into an interactive, readable tree structure with features like syntax highlighting, collapsible nodes, and real-time validation—making it easier for developers to explore and debug JSON responses directly from REST APIs or web services."
 
 ## Postman
 "Postman is a **digital toolkit** that helps developers **explore, test, and share APIs**—like a powerful remote control that lets you send requests to any API and instantly see how it responds, without needing to write a full program."
