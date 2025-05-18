@@ -102,7 +102,8 @@ The **API** is like a waiter that takes the request from customer to the kitchen
     ![image](https://github.com/user-attachments/assets/de2c6d56-0e2e-497f-a2b4-161728548f52)
 
 
-
+## Axios in React (NPM Package)
+ "Axios is a promise-based HTTP client library, installed via npm, that allows React applications to communicate with external APIs by making asynchronous HTTP requests (GET, POST, PUT, DELETE). It simplifies data fetching, handles request/response transformation, supports interceptors for global request handling, and integrates seamlessly with React’s component lifecycle and state management."
 
 
 
