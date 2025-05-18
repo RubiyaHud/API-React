@@ -31,9 +31,17 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 ## JSON Viewer Chrome Extension
 "A JSON Viewer Chrome extension is a browser add-on that automatically detects and beautifies raw JSON data viewed in the browser, transforming it into an interactive, readable tree structure with features like syntax highlighting, collapsible nodes, and real-time validation—making it easier for developers to explore and debug JSON responses directly from REST APIs or web services."
 
-![image](https://github.com/user-attachments/assets/a4ba43f1-b6e5-4e33-81d3-6e250e53a0b4)
+![image](https://github.com/user-attachments/assets/a6ca1492-0b47-483d-8f56-f47448641dd2)
 
-![image](https://github.com/user-attachments/assets/9ebeb9c7-1eca-407a-9d85-5a5e0446dbe0)
+   1. **Install the Extension**
+        - Go to the **Chrome Web Store**
+        - Search for **“JSON Viewer”** (popular options: JSON Viewer Pro, JSON Formatter, JSON Viewer Lite)
+        - Click **“Add to Chrome” → “Add Extension”**
+          ![image](https://github.com/user-attachments/assets/9ebeb9c7-1eca-407a-9d85-5a5e0446dbe0)
+      
+   2. **Open a JSON File or API Endpoint**
+        - Visit a URL that returns raw JSON (e.g., a REST API endpoint like (https://restcountries.com/v3.1/all) )
+        - Alternatively, open a `.json` file hosted online
 
     
 
