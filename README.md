@@ -31,6 +31,13 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 ## JSON Viewer Chrome Extension
 "A JSON Viewer Chrome extension is a browser add-on that automatically detects and beautifies raw JSON data viewed in the browser, transforming it into an interactive, readable tree structure with features like syntax highlighting, collapsible nodes, and real-time validation—making it easier for developers to explore and debug JSON responses directly from REST APIs or web services."
 
+![image](https://github.com/user-attachments/assets/a4ba43f1-b6e5-4e33-81d3-6e250e53a0b4)
+
+![image](https://github.com/user-attachments/assets/9ebeb9c7-1eca-407a-9d85-5a5e0446dbe0)
+
+    
+
+
 ## Postman
 "Postman is a **digital toolkit** that helps developers **explore, test, and share APIs**—like a powerful remote control that lets you send requests to any API and instantly see how it responds, without needing to write a full program."
 ### What Postman does in the context of APIs:
