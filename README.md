@@ -43,7 +43,13 @@ The **API** is like a waiter that takes the request from customer to the kitchen
         - Visit a URL that returns raw JSON (e.g., a REST API endpoint like (https://restcountries.com/v3.1/all) )
         - Alternatively, open a `.json` file hosted online
 
-    
+   3. **Automatic Formatting**
+        - The extension will automatically detect JSON content and **reformat it ** into:
+            - A **collapsible tree view**
+            - **Color-coded syntax (hig**hlighting keys, values, and data types)
+            - Indentation for better readability
+      
+        ![image](https://github.com/user-attachments/assets/0d98a7a3-b257-4be2-97a5-7807f4a8afe6)
 
 
 ## Postman
