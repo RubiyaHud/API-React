@@ -106,12 +106,18 @@ The **API** is like a waiter that takes the request from customer to the kitchen
  "Axios is a promise-based HTTP client library, installed via npm, that allows React applications to communicate with external APIs by making asynchronous HTTP requests (GET, POST, PUT, DELETE). It simplifies data fetching, handles request/response transformation, supports interceptors for global request handling, and integrates seamlessly with React’s component lifecycle and state management."
 
 ![image](https://github.com/user-attachments/assets/5f364bc3-656b-4b70-8624-9d05d27fb347)
+
   **Axios** is a **JavaScript library** (often used in **React** and other frontend frameworks) that helps the application **send HTTP requests** to servers and **handle responses** — typically for interacting with APIs.
 
 ![image](https://github.com/user-attachments/assets/afa19e8d-77a5-4bf1-ba17-4aeba4fd811e)
 
 
-
+### How to use it:
+- Go to the **axios npm** site, [Link](https://www.npmjs.com/package/axios)
+- Run the command below in the Gitbash:
+  ```
+  npm i axios
+  ```
 
 
 
