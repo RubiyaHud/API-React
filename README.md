@@ -156,6 +156,15 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 
   ```
 
+<img width="809" height="598" alt="image" src="https://github.com/user-attachments/assets/ba595203-62f1-494d-bb96-b4d1233b0b58" />
+<img width="656" height="313" alt="image" src="https://github.com/user-attachments/assets/463049af-f271-41d3-8d02-d72081f4b02b" />
+<img width="787" height="577" alt="image" src="https://github.com/user-attachments/assets/1febd1a0-375b-4f58-89dd-9f4926e5da8e" />
+<img width="792" height="631" alt="image" src="https://github.com/user-attachments/assets/403a0674-5433-442f-bf26-dd75c59f9f4a" />
+<img width="647" height="376" alt="image" src="https://github.com/user-attachments/assets/92ea0718-740f-4107-83b4-f6c88f2fea30" />
+
+
+
+
 
 
 
