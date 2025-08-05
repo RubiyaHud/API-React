@@ -27,7 +27,10 @@ The **API** is like a waiter that takes the request from customer to the kitchen
     - **Website:** https://datahelpdesk.worldbank.org/knowledgebase/articles/898590-country-api-queries
     - **Data Link:** https://api.worldbank.org/v2/country/all?format=json
     - **Description:** Offers extensive economic, social, and demographic data for countries worldwide. Ideal for applications requiring statistical information
-      
+## Product API
+<img width="787" height="533" alt="image" src="https://github.com/user-attachments/assets/e08a8f49-8c5a-467d-8d79-f8a5ac549fa1" />
+
+
 ## JSON Viewer Chrome Extension
 "A JSON Viewer Chrome extension is a browser add-on that automatically detects and beautifies raw JSON data viewed in the browser, transforming it into an interactive, readable tree structure with features like syntax highlighting, collapsible nodes, and real-time validation—making it easier for developers to explore and debug JSON responses directly from REST APIs or web services."
 
