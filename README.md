@@ -117,7 +117,7 @@ The **API** is like a waiter that takes the request from customer to the kitchen
 
 ### How to use it:
 - Go to the **axios npm** site, [Link](https://www.npmjs.com/package/axios)
-- Run the command below in the Gitbash:
+- Open the `Gitbash` terminal in vs code and Run the command below:
   ```
   npm i axios
   ```
